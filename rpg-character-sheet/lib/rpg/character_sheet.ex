@@ -1,6 +1,5 @@
 defmodule RPG.CharacterSheet do
   def welcome() do
-    # Please implement the welcome/0 function
   end
 
   def ask_name() do
