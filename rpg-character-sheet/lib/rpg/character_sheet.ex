@@ -1,5 +1,6 @@
 defmodule RPG.CharacterSheet do
   def welcome() do
+<<<<<<< HEAD
     IO.puts("Welcome! Let's fill out your character sheet together.")
     :ok
   end
