@@ -3,7 +3,6 @@ defmodule RPG.CharacterSheet do
   end
 
   def ask_name() do
-    # Please implement the ask_name/0 function
   end
 
   def ask_class() do
